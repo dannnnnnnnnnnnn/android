@@ -7,4 +7,4 @@ Simple 15 puzzle game, with saving on orientation changes and with moving multip
 
 ### Radio
 
-Radio application with SKYmedia endpoints (sky.babahhcdn.com), which saves song history and shows number of unique artists/songs played
+Radio application with SKYmedia endpoints (sky.babahhcdn.com), which saves song history and shows statistics for each channel.
